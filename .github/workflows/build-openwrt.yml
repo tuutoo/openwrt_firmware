@@ -23,7 +23,7 @@ on:
 
 env:
   REPO_URL: https://github.com/Lienol/openwrt
-  REPO_BRANCH: mastermy-19.07-full
+  REPO_BRANCH: my-19.07-full
   CONFIG_FILE: .config
   DIY_SH: diy.sh
   FREE_UP_DISK: false
